@@ -17,4 +17,4 @@ jobs:
     - uses: actions/upload-artifact@master
       with:
         name: WCFServiceWebRoleNAV
-        path: WCFServiceWebRoleNAV\bin\Debug\WCFServiceWebRoleNAV.dll
+        path: WCFServiceWebRoleNAV\bin\WCFServiceWebRoleNAV.dll
